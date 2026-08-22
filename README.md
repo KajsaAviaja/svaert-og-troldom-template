@@ -1,4 +1,4 @@
-# Sværd og Trolddom – template
+# Svært og Trolddom – template
 
 Minimal template til Sværd og Trolddom - Webgame baseret på bøgerne Sværd og Trolddom. Bygget med React, TypeScript, Vite og Tailwind CSS.
 
